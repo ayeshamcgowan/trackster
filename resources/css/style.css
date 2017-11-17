@@ -1,3 +1,47 @@
 /*
   Custom styles for Trackster App
 */
+html{
+  font-size: 16px;
+}
+header{
+  background-color: rgb(35,2,63);
+  padding: 2rem;
+
+}
+
+.logo{
+  color: rgb(255,0,171);
+  font-family: Righteous;
+  font-size: 2.5rem;
+}
+
+input{
+  vertical-align: middle;
+  border: 0;
+  border-radius: 1.5rem;
+  height: 2rem;
+  color: rgb(191,191,191);
+}
+
+.btn{
+  vertical-align: middle;
+  background-color: rgb(255,102,204);
+  border-radius:1.5rem;
+  width: 3rem;
+  border: 0;
+}
+
+.boo{
+  vertical-align: middle;
+}
+.glyphicon{
+  font-size: 1.2rem;
+  color: rgb(35,2,63);
+}
+
+.descriptions{
+  background-color: rgb(104,0,255);
+  height: 2.5rem;
+  color: rgb(255,255,255);
+}
